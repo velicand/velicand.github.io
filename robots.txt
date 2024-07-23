@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://velicand.github.io/sitemap
+Sitemap: https://velicand.github.io/app/sitemap
+Sitemap: https://velicand.github.io/assets/sitemap
+Sitemap: https://velicand.github.io/css/sitemap
+Sitemap: https://velicand.github.io/includes/sitemap
+Sitemap: https://velicand.github.io/item/sitemap
+Sitemap: https://velicand.github.io/src/sitemap
